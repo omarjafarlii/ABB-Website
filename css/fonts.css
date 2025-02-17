@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'sf_pro_display';
+    src: url(/Fonts/SFPRODISPLAYREGULAR.OTF);
+}
+@font-face {
+    font-family: 'sf_pro_display';
+    src: url(/Fonts/SFPRODISPLAYMEDIUM.OTF);
+}
+@font-face {
+    font-family: 'sf_pro_display';
+    src: url(/Fonts/SFPRODISPLAYTHINITALIC.OTF);
+}
+@font-face {
+    font-family: 'sf_pro_display';
+    src: url(/Fonts/SFPRODISPLAYBOLD.OTF);
+}
